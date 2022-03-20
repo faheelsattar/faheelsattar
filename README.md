@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faheelsattar
-- 👀 I’m interested in Full stack development and play around with some new frameworks
-- 🌱 I’m currently learning elixir
-- 💞️ I’m looking to collaborate on mediasoup project
-- 📫 How to reach me faheelsattar@yahoo.com
+- 👀 I’m interested in EVM and protocol designing
+- 🌱 I’m currently learning protocol designing and maths
+- 💞️ I’m looking to collaborate on solidity projects
+- 📫 How to reach me @721Orbit
 
 <!---
 faheelsattar/faheelsattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
