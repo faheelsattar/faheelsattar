@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faheelsattar
-- 👀 I’m interested in EVM and protocol designing
-- 🌱 I’m currently learning protocol designing and maths
+- 👀 I’m interested in EVM and maths
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on solidity projects
 - 📫 How to reach me @721Orbit
 
