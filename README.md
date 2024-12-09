@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faheelsattar
 - 👀 I’m interested in EVM and maths
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on solidity projects
+- 💞️ I’m looking to collaborate on ethereum protocol projects
 - 📫 How to reach me @721Orbit
 
 <!---
